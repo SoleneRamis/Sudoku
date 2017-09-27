@@ -1,5 +1,11 @@
 > Projet en Java - DUT Informatique 2016
 
+### Commande pour lancer l'application :
+
+```
+ java sudoku
+ ```
+
 ## Sudoku
 ```
  Une grille de Sudoku est composée de neuf lignes et neufs colonnes. Elle est également divisée en neuf régions couvrant chacune trois lignes et trois colonnes.
